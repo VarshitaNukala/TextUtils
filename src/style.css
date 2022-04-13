@@ -1,0 +1,8 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.accordion-button::after {
+  filter: invert(1);
+}
